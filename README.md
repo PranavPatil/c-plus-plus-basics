@@ -6,8 +6,8 @@
 4. Modify the class complex program 1 to tackle operator overloading.
 5. Modify the class string in program 2 to tackle operator overloading and write a main program to sort array of strings.
 6. Multiple Classes Use Case
-  1. Write a class date with data members dd,mm,yy and member functions read and write the date.
-  2. Write a class person friend of date class with data mem name, birth date,& functions read, write
-  3. Write class employee derived from person class, data mem company, salary, dept, funs read, write
-  4. Write class student derived from person class, data mem percent, branch and functions read, write
-  5. Write a class Empoy_Student derived from both class student and employee
+    1. Write a class date with data members dd,mm,yy and member functions read and write the date.
+    2. Write a class person friend of date class with data mem name, birth date,& functions read, write
+    3. Write class employee derived from person class, data mem company, salary, dept, funs read, write
+    4. Write class student derived from person class, data mem percent, branch and functions read, write
+    5. Write a class Empoy_Student derived from both class student and employee
